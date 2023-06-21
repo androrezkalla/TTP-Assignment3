@@ -1,0 +1,23 @@
+{
+  "name": "ttp-assignment3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/androrezkalla/TTP-Assignment3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/androrezkalla/TTP-Assignment3/issues"
+  },
+  "homepage": "https://github.com/androrezkalla/TTP-Assignment3#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
